@@ -20,3 +20,15 @@ In this repository, I will be importing various jupyter notebooks for data scrap
 The IMDB file allows you to scrape 10,000 celebrities off of IMDB's website. Using functions to pull specific information, I was able to clean the data into a dataset ready for EDA and analysis testing. 
 
 The IMDB_EDA file explores and breaksdown the demographic of the sample size of 10,000 celebrities. I use Seaborn and Matplotlib to create graphs to visualize the data. I then use several different supervised learning algorithms to compare which performs the best. 
+
+# EDA
+These are the following plots I was able to create to reflect more of the demographics of the celebrities pulled.
+![Celeb1](https://user-images.githubusercontent.com/98020536/164996883-71492513-8fe8-489f-8d36-43bdecb58b93.png)
+![celeb2](https://user-images.githubusercontent.com/98020536/164996923-3be26f5d-2f8e-4908-bd4f-8c1e19c243c9.png)
+![celeb3](https://user-images.githubusercontent.com/98020536/164996928-beb676ca-afb1-4094-b5d5-d569e7485fcf.png)
+![celeb4](https://user-images.githubusercontent.com/98020536/164996929-b0a250c7-04d9-4593-a817-b055de684a6e.png)
+
+
+
+
+
