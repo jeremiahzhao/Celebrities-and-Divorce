@@ -9,6 +9,8 @@ There are certainly many outside factors that affect a decision that's hard for 
 
 I built a web scraper that looked at the first 10,000 celebriteies in IMDB's ranking based off of their 'StarMeter.' I'm not familiar with how that ranking occurs but I'm guessing it has to do with the amount of searches every few days or so. 
 
+![Screen Shot 2022-04-24 at 2 11 46 PM](https://user-images.githubusercontent.com/98020536/164996746-3175bbc8-b555-44e8-b614-c6ef755a225f.png)
+
 Anyways, I pull the names and the URL of the first 10,000 names and from each URL, I pull the birthdate, deathdate (if available), spouse info, children. I also pull sex of the celebrity by running a counter of gender pronouns in the biography of each celebrity, so it may not be the most accurate but is the best I could think of without running it on another website.
 
 In this repository, I will be importing various jupyter notebooks for data scraping, exploratory data analysis, and running statistical algorithms.
