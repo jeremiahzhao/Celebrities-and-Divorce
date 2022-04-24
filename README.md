@@ -1,5 +1,7 @@
 # Celebrities and Divorce
-We seek to build a model that does predictive analysis on whether a celebrity will divorce. This particular model had an accuracy of 82% after testing multiple statistical algorithms, cross validations, and hyperparameter tuning. Ultimately, CatBoost was the best performing algorithm.
+I seek to build a model that does predictive analysis on whether a celebrity will divorce. This particular model had an accuracy of 82% after testing multiple statistical algorithms, cross validations, and hyperparameter tuning. Ultimately, CatBoost was the best performing algorithm.
+
+![image](https://user-images.githubusercontent.com/98020536/164996702-16401f30-e746-4e3a-ac3b-ba5d3721ca3a.png)
 
 I found interest in building this particular model after seeing the whole Will Smith and Chris Rock fiasco at the Oscars 2022. It got me thinking about the divorce rate among celebrities as opposed to the average American. We've seen Kim Kardashian and Kanye West's messy break and I started to think if it was possible to build a model that could possibly predict where a celebrity's relationship would last by looking at 10,000 other celebrities. 
 
